@@ -20,5 +20,14 @@ export const globalStyles = StyleSheet.create({
   },
   mx8: {
     marginHorizontal: 8
-  }
+  },
+  mt8: {
+    marginTop: 8,
+  },
+  p8: {
+    padding: 8,
+  },
+  p16: {
+    padding: 16,
+  },
 });
